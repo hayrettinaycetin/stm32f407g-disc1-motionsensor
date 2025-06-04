@@ -1,4 +1,6 @@
 # Stm32f407g-disc1-Motionsensor-Application
+
+
  
 #define N 10
 #define SENSITIVITY 1024
