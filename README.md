@@ -1,1 +1,1 @@
-# stm32f407g-disc1-motionsensor
+# Stm32f407g-disc1-Motionsensor-Application
